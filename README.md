@@ -1,2 +1,2 @@
-# ram_lrl
+# ramlrl
 experiment algorithm and data
